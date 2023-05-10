@@ -1,0 +1,5 @@
+.vscode
+build
+src
+tmp
+**/.DS_Store
